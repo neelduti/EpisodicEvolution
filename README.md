@@ -1,4 +1,6 @@
 # Supplemental data for the manuscript "Frequent lineage-specific substitution rate changes support an episodic model for protein evolution" by Neel Prabh and Diethard Tautz
+'Supplemental_Figures_and_Tables.pdf' contains the supporting figures and tables.
+
 ‘Alignments’ folder includes the initial mafft alignments and final Gblocks filtered alignments as ‘mafft.aln.tsv’ and ‘gblocks.aln.tsv’, respectively.
 
 ‘Tables’ folder includes both original and normalised ortholog family files as ‘CommonDf.tsv’ and ‘NormDf.tsv’, respectively.
